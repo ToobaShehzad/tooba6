@@ -1,0 +1,41 @@
+1. ByteDance Case Study:
+
+Summary: ByteDance, the company behind TikTok and Douyin, became the world's most valuable startup in 2018. Despite facing challenges like fines and bans, it continued to grow globally. The case study likely explores its success factors, including AI-powered content recommendation and a focus on user engagement.
+Reason: The case study might be used to understand how ByteDance leveraged AI and innovative content formats to build a global business, despite facing challenges.
+2. AI History Timeline:
+
+Summary: The image presents a timeline of artificial intelligence (AI) development, highlighting key milestones like the coining of the term "AI" in 1956, the emergence of big data, and advancements in algorithms.
+Reason: This timeline could be part of the case study to provide context for ByteDance's utilization of AI in its apps.
+3. Evolution of AI Applications:
+
+Summary: The image depicts the evolution of AI applications from background solutions for large organizations to directly impacting consumers in daily tasks like scheduling and managing emails.
+Reason: This image might be included to showcase the broader impact of AI in various industries, potentially connecting it to ByteDance's use of AI for content recommendation.
+4. Four Waves of AI:
+
+Summary: The image summarizes four distinct advancements in AI: internet AI, business AI, perception AI, and autonomous AI. Examples like Google's search recommendations and self-driving cars are provided.
+Reason: This could be relevant to the case study by demonstrating different aspects of AI utilized by companies like ByteDance (e.g., recommendation algorithms and content analysis).
+5. US vs. China AI Research:
+
+Summary: The image compares AI research between the US and China, highlighting China's significant rise in publications, government funding, and entrepreneurial activity in the field.
+Reason: This image might be included to show the broader landscape of AI development and the increasing competition between countries in this industry, potentially relevant to ByteDance's position as a Chinese company operating in a global market.
+6. AI and Robotics: Transforming the Future of Work:
+
+Summary: The image showcases how AI and robotics are impacting various aspects of work globally, including self-driving vehicles, robots in factories, AI-powered customer service, and healthcare applications.
+Reason: This image could be included to provide context for the potential future implications of AI, which might be relevant to the case study by considering the potential impact on ByteDance's operations and the broader business landscape.
+7. ByteDance Founding and Success:
+
+Summary: This image summarizes ByteDance's founding in 2012, initial investor doubts, rise in AI-powered apps, focus on personalized recommendations, and recognition as a top AI innovator.
+Reason: This image likely delves deeper into ByteDance's specific strategies and approach to AI, potentially explaining their success in the competitive social media landscape.
+8. Toutiao Case Study:
+
+Summary: Toutiao, launched by ByteDance in 2012, was an early Chinese news app using AI to curate content and personalize recommendations for users. Its success relied on learning and network effects, user engagement, and an advertising-based business model.
+Reason: This case study within the broader ByteDance case study might be used to showcase another example of how the company utilized AI to create a successful app, potentially offering insights into their overall strategy.
+9. Douyin (TikTok China) Launch:
+
+Summary: Douyin, the Chinese version of TikTok, was launched in 2016 by ByteDance and catered to a younger generation with its focus on user-generated short-form video content, initially capped at 15 seconds. This unique format led to its rapid rise in popularity.
+Reason: This might be included to showcase the origin and innovative features of Douyin/TikTok, potentially contributing to an understanding of ByteDance's ability to create engaging platforms for different markets.
+10. Social Media and Mental Health:
+
+Summary: This unrelated image shows a study about limiting social media use to 30 minutes per day potentially improving mental health by reducing symptoms of depression, anxiety, loneliness, and stress.
+Reason: This image is not directly related to the previous ones and might be a separate case study or information included for reference.
+It's important to note that not all images might be directly related to the main ByteDance case study. However, they collectively offer insights into the context of AI development, the company's strategies, and the broader landscape of technology and its impact on various aspects of work

@@ -1,0 +1,90 @@
+The image you sent is a black and white summary of a case study about ByteDance, the company behind the popular short-form video sharing app TikTok.
+
+The text says that ByteDance became the world's most valuable startup in 2018 when its valuation jumped to US$75 billion. The company has since faced challenges, including being fined by the US Federal Trade Commission for collecting the personal data of children under 13 and being banned in the US by the Trump administration. Despite these challenges, ByteDance has continued to grow and expand globally. In 2019, the company reportedly made profits of US$3 billion on US$17 billion in revenue.
+
+
+ByteDance is a Chinese internet technology company founded in 2012.
+The company is most well-known for creating TikTok, a short-form video sharing app that has become a global phenomenon. ByteDance also owns Douyin, a similar platform that operates specifically in China.Despite facing challenges, including bans in certain countries and political pressures, TikTok has become very popular, with over 2 billion mobile downloads worldwide.
+
+The case study also discusses the development of artificial intelligence (AI) in China and the United States. It concludes by looking at ByteDance's plans for the future, which include launching a productivity app called Lark and expanding TikTok into new markets.
+
+
+he text briefly explains what AI is and gives a timeline of its development.
+
+AI is a field of computer science where machines are given the ability to perform tasks that typically require human intelligence. This includes things like recognizing patterns, learning from data, and making decisions.
+
+The timeline starts in 1956, when the term "artificial intelligence" was first coined at a conference at Dartmouth College. From there, the text highlights a few key milestones in the development of AI, including the development of new algorithms, big data, and artificial general intelligence. The timeline ends in 2011
+
+It states that early AI applications were used in the background for complex problem-solving by large organizations. These applications tackled issues in healthcare, traffic management, and the environment. More recent AI applications directly impact consumers, affecting daily tasks like scheduling, email management, and content discovery. Tech giants like Google, Amazon, and Apple have incorporated AI into their products through features like facial recognition, virtual assistants, and personalized recommendations.
+
+The bottom portion of the image highlights how deep machine learning has revolutionized daily life through various services, including voice assistants, language translation, GPS optimization, and fraud detection. It also references a categorization framework proposed by Kai-Fu Lee, which divides AI capabilities into four categories: perception, interaction, learning, and reasoning.
+
+The text outlines four distinct advancements in AI, each referred to as a wave.
+
+Wave 1: Internet AI leverages the vast amount of data available online to provide users with tailored content and recommendations. This is exemplified by companies like Google curating search results and recommending videos based on user history.
+
+Wave 2: Business AI focuses on improving decision-making within businesses through analyzing proprietary datasets, like customer purchases and equipment maintenance records. An example highlighted is a Chinese financial services company utilizing AI to power an app that approves microloans.
+
+Wave 3: Perception AI emphasizes equipping machines with sensory capabilities to gather and interpret new forms of data not previously captured. This is illustrated by a KFC restaurant in China using facial recognition for a "pay-with-your-face" payment system.
+
+Wave 4: Autonomous AI represents the most advanced wave, aiming to create machines that can independently perceive and react to their surroundings. This is exemplified by self-driving cars developed by companies like Google, Tesla, and Baidu.
+
+The text states that there is a “war for leadership” in AI between the US and China, occurring in both the public and private sectors. While the US initially held a clear lead in AI research, China has narrowed the gap significantly.
+
+The text points to several factors contributing to China’s rise in AI research:
+
+Government commitment: The Chinese government has made becoming a global leader in AI a priority, allocating significant resources and funding to AI initiatives.
+
+Entrepreneurial activity: China has seen a surge in AI startups and businesses in recent years.
+
+Access to talent: China has a large pool of STEM-educated individuals and benefits from many researchers returning from studying abroad.
+
+Focus on publications: China has surpassed the US in the number of published AI research papers, though quality may not necessarily equate to quantity.
+
+The graph in the image illustrates the growth in deep learning research publications between the US and China. While the US still leads overall, China’s publications have grown significantly in recent years.
+
+The picture shows the US and China competing to be the best in AI, like a race. The US was ahead at first, but China is catching up fast.
+
+Here's why China is getting better at AI:
+
+China's government is putting a lot of money and effort into AI.
+Many new AI companies are starting up in China.
+China has a lot of smart people who are studying and working in AI.
+China is publishing a lot of research papers about AI, even though they might not always be the best.
+
+The graph shows that China is publishing many more research papers about AI than the US, but the US is still a bit ahead overall.
+
+
+The ByteDance Story : Founding an AI Tech Company
+
+
+ByteDance was founded in 2012 by Zhang Yiming. He saw mobile devices as the future of how people would consume information.
+
+Investors doubted ByteDance’s success, thinking a news aggregator app wouldn't compete with existing ones.
+
+ByteDance became a leader in AI-powered apps. They used AI to recommend content to users on all their products, including TikTok and Douyin (the Chinese version of TikTok).
+
+ByteDance’s success is due to its AI technology. Unlike other companies, ByteDance uses user behavior to predict preferences, instead of relying on user profiles and similarities between users.
+
+ByteDance has won awards for its AI innovation. They were named a top AI innovator by several organizations in 2018.
+
+The case study also discusses the development of artificial intelligence (AI) in China and the United States. It concludes by looking at ByteDance's plans for the future, which include launching a productivity app called Lark and expanding TikTok into new markets.
+
+Toutios
+
+popular Chinese news app called Toutiao, launched in 2012. Here's the simple version:
+
+Launched in 2012, Toutiao was an early leader in using smarts (AI) to pick news for users in China.
+
+It gathered news from many sources and figured out what each user liked based on their phone use.
+
+This helped Toutiao show each user news they might be interested in, keeping them using the app longer.
+
+Advertisers liked this too, because it meant they could reach the right people with their ads.
+
+By understanding users and showing them what they liked, Toutiao became a big player in the Chinese news world.
+
+The text says that ByteDance launched Douyin in September 2016, a short-form video sharing app. At the time, other big Chinese tech companies were focused on video streaming and copyright, while Douyin offered a unique platform for user-generated content, mainly from smaller cities in China. The 15-second video format was new and appealed to a younger generation who preferred short snippets over long videos. These unique features helped Douyin gain popularity quickly, especially among young people.
+
+Tiktok and Douyoin:
+

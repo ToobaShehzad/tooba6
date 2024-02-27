@@ -1,0 +1,4 @@
+Voice-Activated Smart Home Automation:
+
+Develop karen ek voice-activated smart home automation system jo users ko unke ghar ke devices ko voice commands se control karne ki suvidha provide karta hai.
+Integrate karen voice recognition technology jese ke Google Assistant ya Amazon Alexa ke sath aur connect karen smart devices jese ke lights, thermostats, aur locks.
